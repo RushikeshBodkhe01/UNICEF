@@ -1,0 +1,662 @@
+country,alpha_2_code,alpha_3_code,numeric_code,indicator,time_period,obs_value,sex,unit_multiplier,unit_of_measure,observation_status,observation_confidentaility,time_period_activity_related_to_when_the_data_are_collected,current_age
+Afghanistan,AF,AFG,4,Proportion of health care facilities with limited sanitation services,2016,92.00000000000001,Total,,%,,,,Total
+Afghanistan,AF,AFG,4,Proportion of health care facilities with limited sanitation services,2017,92.00000000000001,Total,,%,,,,Total
+Afghanistan,AF,AFG,4,Proportion of health care facilities with limited sanitation services,2018,92.00000000000001,Total,,%,,,,Total
+Afghanistan,AF,AFG,4,Proportion of health care facilities with limited sanitation services,2019,92.00000000000001,Total,,%,,,,Total
+Afghanistan,AF,AFG,4,Proportion of health care facilities with limited sanitation services,2020,92.00000000000001,Total,,%,,,,Total
+Afghanistan,AF,AFG,4,Proportion of health care facilities with limited sanitation services,2021,92.00000000000001,Total,,%,,,,Total
+Afghanistan,AF,AFG,4,Proportion of health care facilities with limited sanitation services,2022,92.00000000000001,Total,,%,,,,Total
+Afghanistan,AF,AFG,4,Proportion of health care facilities with limited sanitation services,2023,92.00000000000001,Total,,%,,,,Total
+Armenia,AM,ARM,51,Proportion of health care facilities with limited sanitation services,2014,40,Total,,%,,,,Total
+Armenia,AM,ARM,51,Proportion of health care facilities with limited sanitation services,2015,40,Total,,%,,,,Total
+Armenia,AM,ARM,51,Proportion of health care facilities with limited sanitation services,2016,40,Total,,%,,,,Total
+Armenia,AM,ARM,51,Proportion of health care facilities with limited sanitation services,2017,40,Total,,%,,,,Total
+Armenia,AM,ARM,51,Proportion of health care facilities with limited sanitation services,2018,40,Total,,%,,,,Total
+Armenia,AM,ARM,51,Proportion of health care facilities with limited sanitation services,2019,40,Total,,%,,,,Total
+Armenia,AM,ARM,51,Proportion of health care facilities with limited sanitation services,2020,40,Total,,%,,,,Total
+Armenia,AM,ARM,51,Proportion of health care facilities with limited sanitation services,2021,40,Total,,%,,,,Total
+Armenia,AM,ARM,51,Proportion of health care facilities with limited sanitation services,2022,40,Total,,%,,,,Total
+Azerbaijan,AZ,AZE,31,Proportion of health care facilities with limited sanitation services,2014,51.99999999999999,Total,,%,,,,Total
+Azerbaijan,AZ,AZE,31,Proportion of health care facilities with limited sanitation services,2015,51.99999999999999,Total,,%,,,,Total
+Azerbaijan,AZ,AZE,31,Proportion of health care facilities with limited sanitation services,2016,51.99999999999999,Total,,%,,,,Total
+Azerbaijan,AZ,AZE,31,Proportion of health care facilities with limited sanitation services,2017,51.99999999999999,Total,,%,,,,Total
+Azerbaijan,AZ,AZE,31,Proportion of health care facilities with limited sanitation services,2018,51.99999999999999,Total,,%,,,,Total
+Azerbaijan,AZ,AZE,31,Proportion of health care facilities with limited sanitation services,2019,51.99999999999999,Total,,%,,,,Total
+Azerbaijan,AZ,AZE,31,Proportion of health care facilities with limited sanitation services,2020,51.99999999999999,Total,,%,,,,Total
+Azerbaijan,AZ,AZE,31,Proportion of health care facilities with limited sanitation services,2021,51.99999999999999,Total,,%,,,,Total
+Azerbaijan,AZ,AZE,31,Proportion of health care facilities with limited sanitation services,2022,51.99999999999999,Total,,%,,,,Total
+Bangladesh,BD,BGD,50,Proportion of health care facilities with limited sanitation services,2014,61.60329985939256,Total,,%,,,,Total
+Bangladesh,BD,BGD,50,Proportion of health care facilities with limited sanitation services,2015,62.23509981252346,Total,,%,,,,Total
+Bangladesh,BD,BGD,50,Proportion of health care facilities with limited sanitation services,2016,62.86689976565435,Total,,%,,,,Total
+Bangladesh,BD,BGD,50,Proportion of health care facilities with limited sanitation services,2017,63.17506010498687,Total,,%,,,,Total
+Bangladesh,BD,BGD,50,Proportion of health care facilities with limited sanitation services,2018,63.17506010498687,Total,,%,,,,Total
+Bangladesh,BD,BGD,50,Proportion of health care facilities with limited sanitation services,2019,63.17506010498687,Total,,%,,,,Total
+Bangladesh,BD,BGD,50,Proportion of health care facilities with limited sanitation services,2020,63.17506010498687,Total,,%,,,,Total
+Bangladesh,BD,BGD,50,Proportion of health care facilities with limited sanitation services,2021,63.17506010498687,Total,,%,,,,Total
+Bangladesh,BD,BGD,50,Proportion of health care facilities with limited sanitation services,2022,63.17506010498687,Total,,%,,,,Total
+Bhutan,BT,BTN,64,Proportion of health care facilities with limited sanitation services,2015,82.73,Total,,%,,,,Total
+Bhutan,BT,BTN,64,Proportion of health care facilities with limited sanitation services,2016,82.73,Total,,%,,,,Total
+Bhutan,BT,BTN,64,Proportion of health care facilities with limited sanitation services,2017,82.73,Total,,%,,,,Total
+Bhutan,BT,BTN,64,Proportion of health care facilities with limited sanitation services,2018,82.73,Total,,%,,,,Total
+Bhutan,BT,BTN,64,Proportion of health care facilities with limited sanitation services,2019,82.73,Total,,%,,,,Total
+Bhutan,BT,BTN,64,Proportion of health care facilities with limited sanitation services,2020,82.73,Total,,%,,,,Total
+Bhutan,BT,BTN,64,Proportion of health care facilities with limited sanitation services,2021,82.73,Total,,%,,,,Total
+Bhutan,BT,BTN,64,Proportion of health care facilities with limited sanitation services,2022,82.73,Total,,%,,,,Total
+Bhutan,BT,BTN,64,Proportion of health care facilities with limited sanitation services,2023,82.73,Total,,%,,,,Total
+Brazil,BR,BRA,76,Proportion of health care facilities with limited sanitation services,2006,74.09841052631462,Total,,%,,,,Total
+Brazil,BR,BRA,76,Proportion of health care facilities with limited sanitation services,2007,72.46646249999912,Total,,%,,,,Total
+Brazil,BR,BRA,76,Proportion of health care facilities with limited sanitation services,2008,70.83451447368361,Total,,%,,,,Total
+Brazil,BR,BRA,76,Proportion of health care facilities with limited sanitation services,2009,69.20256644736764,Total,,%,,,,Total
+Brazil,BR,BRA,76,Proportion of health care facilities with limited sanitation services,2010,67.57061842105213,Total,,%,,,,Total
+Brazil,BR,BRA,76,Proportion of health care facilities with limited sanitation services,2011,65.93867039473571,Total,,%,,,,Total
+Brazil,BR,BRA,76,Proportion of health care facilities with limited sanitation services,2012,64.3067223684202,Total,,%,,,,Total
+Brazil,BR,BRA,76,Proportion of health care facilities with limited sanitation services,2013,62.67477434210423,Total,,%,,,,Total
+Brazil,BR,BRA,76,Proportion of health care facilities with limited sanitation services,2014,61.04282631578872,Total,,%,,,,Total
+Brazil,BR,BRA,76,Proportion of health care facilities with limited sanitation services,2015,59.4108782894732,Total,,%,,,,Total
+Brazil,BR,BRA,76,Proportion of health care facilities with limited sanitation services,2016,57.77893026315678,Total,,%,,,,Total
+Brazil,BR,BRA,76,Proportion of health care facilities with limited sanitation services,2017,54.78625608552557,Total,,%,,,,Total
+Brazil,BR,BRA,76,Proportion of health care facilities with limited sanitation services,2018,54.78625608552557,Total,,%,,,,Total
+Brazil,BR,BRA,76,Proportion of health care facilities with limited sanitation services,2019,54.78625608552557,Total,,%,,,,Total
+Brazil,BR,BRA,76,Proportion of health care facilities with limited sanitation services,2020,54.78625608552557,Total,,%,,,,Total
+Brazil,BR,BRA,76,Proportion of health care facilities with limited sanitation services,2021,54.78625608552557,Total,,%,,,,Total
+Burundi,BI,BDI,108,Proportion of health care facilities with limited sanitation services,2015,46.0148387096774,Total,,%,,,,Total
+Burundi,BI,BDI,108,Proportion of health care facilities with limited sanitation services,2016,46.43483870967746,Total,,%,,,,Total
+Burundi,BI,BDI,108,Proportion of health care facilities with limited sanitation services,2017,46.85483870967742,Total,,%,,,,Total
+Burundi,BI,BDI,108,Proportion of health care facilities with limited sanitation services,2018,47.27483870967738,Total,,%,,,,Total
+Burundi,BI,BDI,108,Proportion of health care facilities with limited sanitation services,2019,47.69483870967745,Total,,%,,,,Total
+Burundi,BI,BDI,108,Proportion of health care facilities with limited sanitation services,2020,47.69483870967745,Total,,%,,,,Total
+Burundi,BI,BDI,108,Proportion of health care facilities with limited sanitation services,2021,47.69483870967745,Total,,%,,,,Total
+Burundi,BI,BDI,108,Proportion of health care facilities with limited sanitation services,2022,47.69483870967745,Total,,%,,,,Total
+Burundi,BI,BDI,108,Proportion of health care facilities with limited sanitation services,2023,47.69483870967745,Total,,%,,,,Total
+Cambodia,KH,KHM,116,Proportion of health care facilities with limited sanitation services,2020,77.30144210526323,Total,,%,,,,Total
+Cambodia,KH,KHM,116,Proportion of health care facilities with limited sanitation services,2021,77.50670526315794,Total,,%,,,,Total
+Cambodia,KH,KHM,116,Proportion of health care facilities with limited sanitation services,2022,77.71196842105272,Total,,%,,,,Total
+Cambodia,KH,KHM,116,Proportion of health care facilities with limited sanitation services,2023,77.81460000000001,Total,,%,,,,Total
+Central African Republic,CF,CAF,140,Proportion of health care facilities with limited sanitation services,2019,87.05,Total,,%,,,,Total
+Central African Republic,CF,CAF,140,Proportion of health care facilities with limited sanitation services,2020,87.05,Total,,%,,,,Total
+Central African Republic,CF,CAF,140,Proportion of health care facilities with limited sanitation services,2021,87.05,Total,,%,,,,Total
+Central African Republic,CF,CAF,140,Proportion of health care facilities with limited sanitation services,2022,87.05,Total,,%,,,,Total
+Central African Republic,CF,CAF,140,Proportion of health care facilities with limited sanitation services,2023,87.05,Total,,%,,,,Total
+Comoros,KM,COM,174,Proportion of health care facilities with limited sanitation services,2015,89.90000000000001,Total,,%,,,,Total
+Comoros,KM,COM,174,Proportion of health care facilities with limited sanitation services,2016,89.90000000000001,Total,,%,,,,Total
+Comoros,KM,COM,174,Proportion of health care facilities with limited sanitation services,2017,89.90000000000001,Total,,%,,,,Total
+Comoros,KM,COM,174,Proportion of health care facilities with limited sanitation services,2018,89.90000000000001,Total,,%,,,,Total
+Comoros,KM,COM,174,Proportion of health care facilities with limited sanitation services,2019,89.90000000000001,Total,,%,,,,Total
+Comoros,KM,COM,174,Proportion of health care facilities with limited sanitation services,2020,89.90000000000001,Total,,%,,,,Total
+Comoros,KM,COM,174,Proportion of health care facilities with limited sanitation services,2021,89.90000000000001,Total,,%,,,,Total
+Comoros,KM,COM,174,Proportion of health care facilities with limited sanitation services,2022,89.90000000000001,Total,,%,,,,Total
+Cook Islands,CK,COK,184,Proportion of health care facilities with limited sanitation services,2014,20,Total,,%,,,,Total
+Cook Islands,CK,COK,184,Proportion of health care facilities with limited sanitation services,2015,20,Total,,%,,,,Total
+Cook Islands,CK,COK,184,Proportion of health care facilities with limited sanitation services,2016,20,Total,,%,,,,Total
+Cook Islands,CK,COK,184,Proportion of health care facilities with limited sanitation services,2017,20,Total,,%,,,,Total
+Cook Islands,CK,COK,184,Proportion of health care facilities with limited sanitation services,2018,20,Total,,%,,,,Total
+Cook Islands,CK,COK,184,Proportion of health care facilities with limited sanitation services,2019,20,Total,,%,,,,Total
+Cook Islands,CK,COK,184,Proportion of health care facilities with limited sanitation services,2020,20,Total,,%,,,,Total
+Cook Islands,CK,COK,184,Proportion of health care facilities with limited sanitation services,2021,20,Total,,%,,,,Total
+Cook Islands,CK,COK,184,Proportion of health care facilities with limited sanitation services,2022,20,Total,,%,,,,Total
+Croatia,HR,HRV,191,Proportion of health care facilities with limited sanitation services,2018,12.24489795918367,Total,,%,,,,Total
+Croatia,HR,HRV,191,Proportion of health care facilities with limited sanitation services,2019,12.24489795918367,Total,,%,,,,Total
+Croatia,HR,HRV,191,Proportion of health care facilities with limited sanitation services,2020,12.24489795918367,Total,,%,,,,Total
+Croatia,HR,HRV,191,Proportion of health care facilities with limited sanitation services,2021,12.24489795918367,Total,,%,,,,Total
+Croatia,HR,HRV,191,Proportion of health care facilities with limited sanitation services,2022,12.24489795918367,Total,,%,,,,Total
+Croatia,HR,HRV,191,Proportion of health care facilities with limited sanitation services,2023,12.24489795918367,Total,,%,,,,Total
+Egypt,EG,EGY,818,Proportion of health care facilities with limited sanitation services,2016,25.51256685193505,Total,,%,,,,Total
+Egypt,EG,EGY,818,Proportion of health care facilities with limited sanitation services,2017,25.66657903566886,Total,,%,,,,Total
+Egypt,EG,EGY,818,Proportion of health care facilities with limited sanitation services,2018,25.82059121940267,Total,,%,,,,Total
+Egypt,EG,EGY,818,Proportion of health care facilities with limited sanitation services,2019,25.97460340313648,Total,,%,,,,Total
+Egypt,EG,EGY,818,Proportion of health care facilities with limited sanitation services,2020,26.1286155868703,Total,,%,,,,Total
+Egypt,EG,EGY,818,Proportion of health care facilities with limited sanitation services,2021,26.28262777060411,Total,,%,,,,Total
+Egypt,EG,EGY,818,Proportion of health care facilities with limited sanitation services,2022,26.43663995433792,Total,,%,,,,Total
+Egypt,EG,EGY,818,Proportion of health care facilities with limited sanitation services,2023,26.43663995433792,Total,,%,,,,Total
+Estonia,EE,EST,233,Proportion of health care facilities with limited sanitation services,2000,0,Total,,%,,,,Total
+Estonia,EE,EST,233,Proportion of health care facilities with limited sanitation services,2001,0,Total,,%,,,,Total
+Estonia,EE,EST,233,Proportion of health care facilities with limited sanitation services,2002,0,Total,,%,,,,Total
+Estonia,EE,EST,233,Proportion of health care facilities with limited sanitation services,2003,0,Total,,%,,,,Total
+Estonia,EE,EST,233,Proportion of health care facilities with limited sanitation services,2004,0,Total,,%,,,,Total
+Estonia,EE,EST,233,Proportion of health care facilities with limited sanitation services,2005,0,Total,,%,,,,Total
+Estonia,EE,EST,233,Proportion of health care facilities with limited sanitation services,2006,0,Total,,%,,,,Total
+Estonia,EE,EST,233,Proportion of health care facilities with limited sanitation services,2007,0,Total,,%,,,,Total
+Estonia,EE,EST,233,Proportion of health care facilities with limited sanitation services,2008,0,Total,,%,,,,Total
+Estonia,EE,EST,233,Proportion of health care facilities with limited sanitation services,2009,0,Total,,%,,,,Total
+Estonia,EE,EST,233,Proportion of health care facilities with limited sanitation services,2010,0,Total,,%,,,,Total
+Estonia,EE,EST,233,Proportion of health care facilities with limited sanitation services,2011,0,Total,,%,,,,Total
+Estonia,EE,EST,233,Proportion of health care facilities with limited sanitation services,2012,0,Total,,%,,,,Total
+Estonia,EE,EST,233,Proportion of health care facilities with limited sanitation services,2013,0,Total,,%,,,,Total
+Estonia,EE,EST,233,Proportion of health care facilities with limited sanitation services,2014,0,Total,,%,,,,Total
+Estonia,EE,EST,233,Proportion of health care facilities with limited sanitation services,2015,0,Total,,%,,,,Total
+Estonia,EE,EST,233,Proportion of health care facilities with limited sanitation services,2016,0,Total,,%,,,,Total
+Estonia,EE,EST,233,Proportion of health care facilities with limited sanitation services,2017,0,Total,,%,,,,Total
+Estonia,EE,EST,233,Proportion of health care facilities with limited sanitation services,2018,0,Total,,%,,,,Total
+Estonia,EE,EST,233,Proportion of health care facilities with limited sanitation services,2019,0,Total,,%,,,,Total
+Estonia,EE,EST,233,Proportion of health care facilities with limited sanitation services,2020,0,Total,,%,,,,Total
+Estonia,EE,EST,233,Proportion of health care facilities with limited sanitation services,2021,0,Total,,%,,,,Total
+Estonia,EE,EST,233,Proportion of health care facilities with limited sanitation services,2022,0,Total,,%,,,,Total
+Estonia,EE,EST,233,Proportion of health care facilities with limited sanitation services,2023,0,Total,,%,,,,Total
+Ethiopia,ET,ETH,231,Proportion of health care facilities with limited sanitation services,2010,19.50271666666683,Total,,%,,,,Total
+Ethiopia,ET,ETH,231,Proportion of health care facilities with limited sanitation services,2011,19.50271666666683,Total,,%,,,,Total
+Ethiopia,ET,ETH,231,Proportion of health care facilities with limited sanitation services,2012,19.50271666666683,Total,,%,,,,Total
+Ethiopia,ET,ETH,231,Proportion of health care facilities with limited sanitation services,2013,19.50271666666683,Total,,%,,,,Total
+Ethiopia,ET,ETH,231,Proportion of health care facilities with limited sanitation services,2014,19.50271666666683,Total,,%,,,,Total
+Ethiopia,ET,ETH,231,Proportion of health care facilities with limited sanitation services,2015,18.91426666666686,Total,,%,,,,Total
+Ethiopia,ET,ETH,231,Proportion of health care facilities with limited sanitation services,2016,18.3258166666669,Total,,%,,,,Total
+Ethiopia,ET,ETH,231,Proportion of health care facilities with limited sanitation services,2017,17.73736666666693,Total,,%,,,,Total
+Ethiopia,ET,ETH,231,Proportion of health care facilities with limited sanitation services,2018,38.54301666666667,Total,,%,,,,Total
+Ethiopia,ET,ETH,231,Proportion of health care facilities with limited sanitation services,2019,38.54301666666667,Total,,%,,,,Total
+Ethiopia,ET,ETH,231,Proportion of health care facilities with limited sanitation services,2020,38.54301666666667,Total,,%,,,,Total
+Ethiopia,ET,ETH,231,Proportion of health care facilities with limited sanitation services,2021,38.54301666666667,Total,,%,,,,Total
+Ethiopia,ET,ETH,231,Proportion of health care facilities with limited sanitation services,2022,38.54301666666667,Total,,%,,,,Total
+Ethiopia,ET,ETH,231,Proportion of health care facilities with limited sanitation services,2023,38.54301666666667,Total,,%,,,,Total
+Fiji,FJ,FJI,242,Proportion of health care facilities with limited sanitation services,2013,91,Total,,%,,,,Total
+Fiji,FJ,FJI,242,Proportion of health care facilities with limited sanitation services,2014,91,Total,,%,,,,Total
+Fiji,FJ,FJI,242,Proportion of health care facilities with limited sanitation services,2015,91,Total,,%,,,,Total
+Fiji,FJ,FJI,242,Proportion of health care facilities with limited sanitation services,2016,90.96011249999992,Total,,%,,,,Total
+Fiji,FJ,FJI,242,Proportion of health care facilities with limited sanitation services,2017,88.5,Total,,%,,,,Total
+Fiji,FJ,FJI,242,Proportion of health care facilities with limited sanitation services,2018,86.03988750000008,Total,,%,,,,Total
+Fiji,FJ,FJI,242,Proportion of health care facilities with limited sanitation services,2019,83.57977500000015,Total,,%,,,,Total
+Fiji,FJ,FJI,242,Proportion of health care facilities with limited sanitation services,2020,81.11966249999932,Total,,%,,,,Total
+Fiji,FJ,FJI,242,Proportion of health care facilities with limited sanitation services,2021,78.6595499999994,Total,,%,,,,Total
+Georgia,GE,GEO,268,Proportion of health care facilities with limited sanitation services,2017,75.83333333333334,Total,,%,,,,Total
+Georgia,GE,GEO,268,Proportion of health care facilities with limited sanitation services,2018,75.83333333333334,Total,,%,,,,Total
+Georgia,GE,GEO,268,Proportion of health care facilities with limited sanitation services,2019,75.83333333333334,Total,,%,,,,Total
+Georgia,GE,GEO,268,Proportion of health care facilities with limited sanitation services,2020,75.83333333333334,Total,,%,,,,Total
+Georgia,GE,GEO,268,Proportion of health care facilities with limited sanitation services,2021,75.83333333333334,Total,,%,,,,Total
+Georgia,GE,GEO,268,Proportion of health care facilities with limited sanitation services,2022,75.83333333333334,Total,,%,,,,Total
+Georgia,GE,GEO,268,Proportion of health care facilities with limited sanitation services,2023,75.83333333333334,Total,,%,,,,Total
+Guinea-Bissau,GW,GNB,624,Proportion of health care facilities with limited sanitation services,2010,90.86095000000023,Total,,%,,,,Total
+Guinea-Bissau,GW,GNB,624,Proportion of health care facilities with limited sanitation services,2011,90.86095000000023,Total,,%,,,,Total
+Guinea-Bissau,GW,GNB,624,Proportion of health care facilities with limited sanitation services,2012,90.86095000000023,Total,,%,,,,Total
+Guinea-Bissau,GW,GNB,624,Proportion of health care facilities with limited sanitation services,2013,90.86095000000023,Total,,%,,,,Total
+Guinea-Bissau,GW,GNB,624,Proportion of health care facilities with limited sanitation services,2014,90.86095000000023,Total,,%,,,,Total
+Guinea-Bissau,GW,GNB,624,Proportion of health care facilities with limited sanitation services,2015,88.91655357142872,Total,,%,,,,Total
+Guinea-Bissau,GW,GNB,624,Proportion of health care facilities with limited sanitation services,2016,86.97215714285721,Total,,%,,,,Total
+Guinea-Bissau,GW,GNB,624,Proportion of health care facilities with limited sanitation services,2017,84.57865714285799,Total,,%,,,,Total
+Guinea-Bissau,GW,GNB,624,Proportion of health care facilities with limited sanitation services,2018,80.38874285714382,Total,,%,,,,Total
+Guinea-Bissau,GW,GNB,624,Proportion of health care facilities with limited sanitation services,2019,77.69251428571351,Total,,%,,,,Total
+Guinea-Bissau,GW,GNB,624,Proportion of health care facilities with limited sanitation services,2020,77.55905714285655,Total,,%,,,,Total
+Guinea-Bissau,GW,GNB,624,Proportion of health care facilities with limited sanitation services,2021,77.42559999999958,Total,,%,,,,Total
+Guinea-Bissau,GW,GNB,624,Proportion of health care facilities with limited sanitation services,2022,77.29214285714261,Total,,%,,,,Total
+Guinea-Bissau,GW,GNB,624,Proportion of health care facilities with limited sanitation services,2023,77.15868571428473,Total,,%,,,,Total
+Honduras,HN,HND,340,Proportion of health care facilities with limited sanitation services,2011,78.5103,Total,,%,,,,Total
+Honduras,HN,HND,340,Proportion of health care facilities with limited sanitation services,2012,78.5103,Total,,%,,,,Total
+Honduras,HN,HND,340,Proportion of health care facilities with limited sanitation services,2013,92.32025,Total,,%,,,,Total
+Honduras,HN,HND,340,Proportion of health care facilities with limited sanitation services,2014,92.32025,Total,,%,,,,Total
+Honduras,HN,HND,340,Proportion of health care facilities with limited sanitation services,2015,92.32025,Total,,%,,,,Total
+Honduras,HN,HND,340,Proportion of health care facilities with limited sanitation services,2016,92.32025,Total,,%,,,,Total
+Honduras,HN,HND,340,Proportion of health care facilities with limited sanitation services,2017,92.32025,Total,,%,,,,Total
+Honduras,HN,HND,340,Proportion of health care facilities with limited sanitation services,2018,92.32025,Total,,%,,,,Total
+Honduras,HN,HND,340,Proportion of health care facilities with limited sanitation services,2019,92.32025,Total,,%,,,,Total
+Honduras,HN,HND,340,Proportion of health care facilities with limited sanitation services,2020,92.32025,Total,,%,,,,Total
+Honduras,HN,HND,340,Proportion of health care facilities with limited sanitation services,2021,92.32025,Total,,%,,,,Total
+Honduras,HN,HND,340,Proportion of health care facilities with limited sanitation services,2022,78.5103,Total,,%,,,,Total
+Honduras,HN,HND,340,Proportion of health care facilities with limited sanitation services,2023,78.5103,Total,,%,,,,Total
+"Iran, Islamic Republic of",IR,IRN,364,Proportion of health care facilities with limited sanitation services,2017,61.9945,Total,,%,,,,Total
+"Iran, Islamic Republic of",IR,IRN,364,Proportion of health care facilities with limited sanitation services,2018,61.9945,Total,,%,,,,Total
+"Iran, Islamic Republic of",IR,IRN,364,Proportion of health care facilities with limited sanitation services,2019,61.9945,Total,,%,,,,Total
+"Iran, Islamic Republic of",IR,IRN,364,Proportion of health care facilities with limited sanitation services,2020,61.9945,Total,,%,,,,Total
+"Iran, Islamic Republic of",IR,IRN,364,Proportion of health care facilities with limited sanitation services,2021,61.9945,Total,,%,,,,Total
+"Iran, Islamic Republic of",IR,IRN,364,Proportion of health care facilities with limited sanitation services,2022,61.9945,Total,,%,,,,Total
+"Iran, Islamic Republic of",IR,IRN,364,Proportion of health care facilities with limited sanitation services,2023,61.9945,Total,,%,,,,Total
+Iraq,IQ,IRQ,368,Proportion of health care facilities with limited sanitation services,2015,79.40408073701843,Total,,%,,,,Total
+Iraq,IQ,IRQ,368,Proportion of health care facilities with limited sanitation services,2016,79.40408073701843,Total,,%,,,,Total
+Iraq,IQ,IRQ,368,Proportion of health care facilities with limited sanitation services,2017,79.40408073701843,Total,,%,,,,Total
+Iraq,IQ,IRQ,368,Proportion of health care facilities with limited sanitation services,2018,79.40408073701843,Total,,%,,,,Total
+Iraq,IQ,IRQ,368,Proportion of health care facilities with limited sanitation services,2019,93.17948073701842,Total,,%,,,,Total
+Iraq,IQ,IRQ,368,Proportion of health care facilities with limited sanitation services,2020,93.17948073701842,Total,,%,,,,Total
+Kenya,KE,KEN,404,Proportion of health care facilities with limited sanitation services,2012,90.84994356435664,Total,,%,,,,Total
+Kenya,KE,KEN,404,Proportion of health care facilities with limited sanitation services,2013,90.25015214521453,Total,,%,,,,Total
+Kenya,KE,KEN,404,Proportion of health care facilities with limited sanitation services,2014,89.65036072607268,Total,,%,,,,Total
+Kenya,KE,KEN,404,Proportion of health care facilities with limited sanitation services,2015,89.05056930693081,Total,,%,,,,Total
+Kenya,KE,KEN,404,Proportion of health care facilities with limited sanitation services,2016,88.45077788778895,Total,,%,,,,Total
+Kenya,KE,KEN,404,Proportion of health care facilities with limited sanitation services,2017,86.30528646864741,Total,,%,,,,Total
+Kenya,KE,KEN,404,Proportion of health care facilities with limited sanitation services,2018,83.49644504950493,Total,,%,,,,Total
+Kenya,KE,KEN,404,Proportion of health care facilities with limited sanitation services,2019,80.6876036303636,Total,,%,,,,Total
+Kenya,KE,KEN,404,Proportion of health care facilities with limited sanitation services,2020,77.87876221122133,Total,,%,,,,Total
+Kenya,KE,KEN,404,Proportion of health care facilities with limited sanitation services,2021,75.66971221122094,Total,,%,,,,Total
+Kenya,KE,KEN,404,Proportion of health care facilities with limited sanitation services,2022,73.46066221122146,Total,,%,,,,Total
+Kenya,KE,KEN,404,Proportion of health care facilities with limited sanitation services,2023,71.25161221122107,Total,,%,,,,Total
+Kiribati,KI,KIR,296,Proportion of health care facilities with limited sanitation services,2019,96.66659999999999,Total,,%,,,,Total
+Kiribati,KI,KIR,296,Proportion of health care facilities with limited sanitation services,2020,96.66659999999999,Total,,%,,,,Total
+Kiribati,KI,KIR,296,Proportion of health care facilities with limited sanitation services,2021,96.66659999999999,Total,,%,,,,Total
+Kiribati,KI,KIR,296,Proportion of health care facilities with limited sanitation services,2022,96.66659999999999,Total,,%,,,,Total
+Kiribati,KI,KIR,296,Proportion of health care facilities with limited sanitation services,2023,96.66659999999999,Total,,%,,,,Total
+Kuwait,KW,KWT,414,Proportion of health care facilities with limited sanitation services,2000,0,Total,,%,,,,Total
+Kuwait,KW,KWT,414,Proportion of health care facilities with limited sanitation services,2001,0,Total,,%,,,,Total
+Kuwait,KW,KWT,414,Proportion of health care facilities with limited sanitation services,2002,0,Total,,%,,,,Total
+Kuwait,KW,KWT,414,Proportion of health care facilities with limited sanitation services,2003,0,Total,,%,,,,Total
+Kuwait,KW,KWT,414,Proportion of health care facilities with limited sanitation services,2004,0,Total,,%,,,,Total
+Kuwait,KW,KWT,414,Proportion of health care facilities with limited sanitation services,2005,0,Total,,%,,,,Total
+Kuwait,KW,KWT,414,Proportion of health care facilities with limited sanitation services,2006,0,Total,,%,,,,Total
+Kuwait,KW,KWT,414,Proportion of health care facilities with limited sanitation services,2007,0,Total,,%,,,,Total
+Kuwait,KW,KWT,414,Proportion of health care facilities with limited sanitation services,2008,0,Total,,%,,,,Total
+Kuwait,KW,KWT,414,Proportion of health care facilities with limited sanitation services,2009,0,Total,,%,,,,Total
+Kuwait,KW,KWT,414,Proportion of health care facilities with limited sanitation services,2010,0,Total,,%,,,,Total
+Kuwait,KW,KWT,414,Proportion of health care facilities with limited sanitation services,2011,0,Total,,%,,,,Total
+Kuwait,KW,KWT,414,Proportion of health care facilities with limited sanitation services,2012,0,Total,,%,,,,Total
+Kuwait,KW,KWT,414,Proportion of health care facilities with limited sanitation services,2013,0,Total,,%,,,,Total
+Kuwait,KW,KWT,414,Proportion of health care facilities with limited sanitation services,2014,0,Total,,%,,,,Total
+Kuwait,KW,KWT,414,Proportion of health care facilities with limited sanitation services,2015,0,Total,,%,,,,Total
+Kuwait,KW,KWT,414,Proportion of health care facilities with limited sanitation services,2016,0,Total,,%,,,,Total
+Kuwait,KW,KWT,414,Proportion of health care facilities with limited sanitation services,2017,0,Total,,%,,,,Total
+Kuwait,KW,KWT,414,Proportion of health care facilities with limited sanitation services,2018,0,Total,,%,,,,Total
+Kuwait,KW,KWT,414,Proportion of health care facilities with limited sanitation services,2019,0,Total,,%,,,,Total
+Kuwait,KW,KWT,414,Proportion of health care facilities with limited sanitation services,2020,0,Total,,%,,,,Total
+Kuwait,KW,KWT,414,Proportion of health care facilities with limited sanitation services,2021,0,Total,,%,,,,Total
+Kuwait,KW,KWT,414,Proportion of health care facilities with limited sanitation services,2022,0,Total,,%,,,,Total
+Kuwait,KW,KWT,414,Proportion of health care facilities with limited sanitation services,2023,0,Total,,%,,,,Total
+Lao People's Democratic Republic,LA,LAO,418,Proportion of health care facilities with limited sanitation services,2018,95.8704,Total,,%,,,,Total
+Lao People's Democratic Republic,LA,LAO,418,Proportion of health care facilities with limited sanitation services,2019,95.8704,Total,,%,,,,Total
+Lao People's Democratic Republic,LA,LAO,418,Proportion of health care facilities with limited sanitation services,2020,95.8704,Total,,%,,,,Total
+Lao People's Democratic Republic,LA,LAO,418,Proportion of health care facilities with limited sanitation services,2021,95.8704,Total,,%,,,,Total
+Lao People's Democratic Republic,LA,LAO,418,Proportion of health care facilities with limited sanitation services,2022,95.8704,Total,,%,,,,Total
+Lao People's Democratic Republic,LA,LAO,418,Proportion of health care facilities with limited sanitation services,2023,95.8704,Total,,%,,,,Total
+Lebanon,LB,LBN,422,Proportion of health care facilities with limited sanitation services,2013,66.3,Total,,%,,,,Total
+Lebanon,LB,LBN,422,Proportion of health care facilities with limited sanitation services,2014,66.3,Total,,%,,,,Total
+Lebanon,LB,LBN,422,Proportion of health care facilities with limited sanitation services,2015,66.3,Total,,%,,,,Total
+Lebanon,LB,LBN,422,Proportion of health care facilities with limited sanitation services,2016,66.3,Total,,%,,,,Total
+Lebanon,LB,LBN,422,Proportion of health care facilities with limited sanitation services,2017,66.3,Total,,%,,,,Total
+Lebanon,LB,LBN,422,Proportion of health care facilities with limited sanitation services,2018,66.3,Total,,%,,,,Total
+Lebanon,LB,LBN,422,Proportion of health care facilities with limited sanitation services,2019,66.3,Total,,%,,,,Total
+Lebanon,LB,LBN,422,Proportion of health care facilities with limited sanitation services,2020,66.3,Total,,%,,,,Total
+Lebanon,LB,LBN,422,Proportion of health care facilities with limited sanitation services,2021,66.3,Total,,%,,,,Total
+Lesotho,LS,LSO,426,Proportion of health care facilities with limited sanitation services,2007,97.24139999999998,Total,,%,,,,Total
+Lesotho,LS,LSO,426,Proportion of health care facilities with limited sanitation services,2008,97.24139999999998,Total,,%,,,,Total
+Lesotho,LS,LSO,426,Proportion of health care facilities with limited sanitation services,2009,97.24139999999998,Total,,%,,,,Total
+Lesotho,LS,LSO,426,Proportion of health care facilities with limited sanitation services,2010,97.24139999999998,Total,,%,,,,Total
+Lesotho,LS,LSO,426,Proportion of health care facilities with limited sanitation services,2011,97.24139999999998,Total,,%,,,,Total
+Lesotho,LS,LSO,426,Proportion of health care facilities with limited sanitation services,2012,97.24139999999998,Total,,%,,,,Total
+Lesotho,LS,LSO,426,Proportion of health care facilities with limited sanitation services,2013,97.24139999999998,Total,,%,,,,Total
+Lesotho,LS,LSO,426,Proportion of health care facilities with limited sanitation services,2014,97.24139999999998,Total,,%,,,,Total
+Lesotho,LS,LSO,426,Proportion of health care facilities with limited sanitation services,2015,97.24139999999998,Total,,%,,,,Total
+Liberia,LR,LBR,430,Proportion of health care facilities with limited sanitation services,2009,96.60100122772785,Total,,%,,,,Total
+Liberia,LR,LBR,430,Proportion of health care facilities with limited sanitation services,2010,96.60100122772785,Total,,%,,,,Total
+Liberia,LR,LBR,430,Proportion of health care facilities with limited sanitation services,2011,96.60100122772785,Total,,%,,,,Total
+Liberia,LR,LBR,430,Proportion of health care facilities with limited sanitation services,2012,93.59435218502988,Total,,%,,,,Total
+Liberia,LR,LBR,430,Proportion of health care facilities with limited sanitation services,2013,90.58770314233192,Total,,%,,,,Total
+Liberia,LR,LBR,430,Proportion of health care facilities with limited sanitation services,2014,87.58105409963393,Total,,%,,,,Total
+Liberia,LR,LBR,430,Proportion of health care facilities with limited sanitation services,2015,84.57440505693505,Total,,%,,,,Total
+Liberia,LR,LBR,430,Proportion of health care facilities with limited sanitation services,2016,81.56775601423708,Total,,%,,,,Total
+Liberia,LR,LBR,430,Proportion of health care facilities with limited sanitation services,2017,78.5611069715391,Total,,%,,,,Total
+Malawi,MW,MWI,454,Proportion of health care facilities with limited sanitation services,2013,88.11526315789472,Total,,%,,,,Total
+Malawi,MW,MWI,454,Proportion of health care facilities with limited sanitation services,2014,88.00853684210524,Total,,%,,,,Total
+Malawi,MW,MWI,454,Proportion of health care facilities with limited sanitation services,2015,87.90181052631577,Total,,%,,,,Total
+Malawi,MW,MWI,454,Proportion of health care facilities with limited sanitation services,2016,87.7950842105263,Total,,%,,,,Total
+Malawi,MW,MWI,454,Proportion of health care facilities with limited sanitation services,2017,87.68835789473682,Total,,%,,,,Total
+Malawi,MW,MWI,454,Proportion of health care facilities with limited sanitation services,2018,87.58163157894735,Total,,%,,,,Total
+Malawi,MW,MWI,454,Proportion of health care facilities with limited sanitation services,2019,87.47490526315788,Total,,%,,,,Total
+Malawi,MW,MWI,454,Proportion of health care facilities with limited sanitation services,2020,87.36817894736841,Total,,%,,,,Total
+Malawi,MW,MWI,454,Proportion of health care facilities with limited sanitation services,2021,87.26145263157893,Total,,%,,,,Total
+Malaysia,MY,MYS,458,Proportion of health care facilities with limited sanitation services,2019,29.6373779637378,Total,,%,,,,Total
+Malaysia,MY,MYS,458,Proportion of health care facilities with limited sanitation services,2020,29.6373779637378,Total,,%,,,,Total
+Malaysia,MY,MYS,458,Proportion of health care facilities with limited sanitation services,2021,29.6373779637378,Total,,%,,,,Total
+Malaysia,MY,MYS,458,Proportion of health care facilities with limited sanitation services,2022,29.6373779637378,Total,,%,,,,Total
+Malaysia,MY,MYS,458,Proportion of health care facilities with limited sanitation services,2023,29.6373779637378,Total,,%,,,,Total
+Maldives,MV,MDV,462,Proportion of health care facilities with limited sanitation services,2014,84.59999999999999,Total,,%,,,,Total
+Maldives,MV,MDV,462,Proportion of health care facilities with limited sanitation services,2015,84.59999999999999,Total,,%,,,,Total
+Maldives,MV,MDV,462,Proportion of health care facilities with limited sanitation services,2016,84.59999999999999,Total,,%,,,,Total
+Maldives,MV,MDV,462,Proportion of health care facilities with limited sanitation services,2017,84.59999999999999,Total,,%,,,,Total
+Maldives,MV,MDV,462,Proportion of health care facilities with limited sanitation services,2018,84.59999999999999,Total,,%,,,,Total
+Maldives,MV,MDV,462,Proportion of health care facilities with limited sanitation services,2019,84.59999999999999,Total,,%,,,,Total
+Maldives,MV,MDV,462,Proportion of health care facilities with limited sanitation services,2020,84.59999999999999,Total,,%,,,,Total
+Maldives,MV,MDV,462,Proportion of health care facilities with limited sanitation services,2021,84.59999999999999,Total,,%,,,,Total
+Maldives,MV,MDV,462,Proportion of health care facilities with limited sanitation services,2022,84.59999999999999,Total,,%,,,,Total
+Mali,ML,MLI,466,Proportion of health care facilities with limited sanitation services,2018,83.57628205128185,Total,,%,,,,Total
+Mali,ML,MLI,466,Proportion of health care facilities with limited sanitation services,2019,85,Total,,%,,,,Total
+Mali,ML,MLI,466,Proportion of health care facilities with limited sanitation services,2020,85,Total,,%,,,,Total
+Mali,ML,MLI,466,Proportion of health care facilities with limited sanitation services,2021,85,Total,,%,,,,Total
+Mali,ML,MLI,466,Proportion of health care facilities with limited sanitation services,2022,85,Total,,%,,,,Total
+Malta,MT,MLT,470,Proportion of health care facilities with limited sanitation services,2019,38.1,Total,,%,,,,Total
+Malta,MT,MLT,470,Proportion of health care facilities with limited sanitation services,2020,38.1,Total,,%,,,,Total
+Malta,MT,MLT,470,Proportion of health care facilities with limited sanitation services,2021,38.1,Total,,%,,,,Total
+Malta,MT,MLT,470,Proportion of health care facilities with limited sanitation services,2022,38.1,Total,,%,,,,Total
+Malta,MT,MLT,470,Proportion of health care facilities with limited sanitation services,2023,38.1,Total,,%,,,,Total
+"Micronesia, Federated States of",FM,FSM,583,Proportion of health care facilities with limited sanitation services,2017,66.66669999999999,Total,,%,,,,Total
+"Micronesia, Federated States of",FM,FSM,583,Proportion of health care facilities with limited sanitation services,2018,66.66669999999999,Total,,%,,,,Total
+"Micronesia, Federated States of",FM,FSM,583,Proportion of health care facilities with limited sanitation services,2019,66.66669999999999,Total,,%,,,,Total
+"Micronesia, Federated States of",FM,FSM,583,Proportion of health care facilities with limited sanitation services,2020,66.66669999999999,Total,,%,,,,Total
+"Micronesia, Federated States of",FM,FSM,583,Proportion of health care facilities with limited sanitation services,2021,66.66669999999999,Total,,%,,,,Total
+"Micronesia, Federated States of",FM,FSM,583,Proportion of health care facilities with limited sanitation services,2022,66.66669999999999,Total,,%,,,,Total
+"Micronesia, Federated States of",FM,FSM,583,Proportion of health care facilities with limited sanitation services,2023,66.66669999999999,Total,,%,,,,Total
+Mongolia,MN,MNG,496,Proportion of health care facilities with limited sanitation services,2019,45.61130000000001,Total,,%,,,,Total
+Mongolia,MN,MNG,496,Proportion of health care facilities with limited sanitation services,2020,45.61130000000001,Total,,%,,,,Total
+Mongolia,MN,MNG,496,Proportion of health care facilities with limited sanitation services,2021,45.61130000000001,Total,,%,,,,Total
+Mongolia,MN,MNG,496,Proportion of health care facilities with limited sanitation services,2022,45.61130000000001,Total,,%,,,,Total
+Mongolia,MN,MNG,496,Proportion of health care facilities with limited sanitation services,2023,45.61130000000001,Total,,%,,,,Total
+Morocco,MA,MAR,504,Proportion of health care facilities with limited sanitation services,2018,82.4348,Total,,%,,,,Total
+Morocco,MA,MAR,504,Proportion of health care facilities with limited sanitation services,2019,82.4348,Total,,%,,,,Total
+Morocco,MA,MAR,504,Proportion of health care facilities with limited sanitation services,2020,82.4348,Total,,%,,,,Total
+Morocco,MA,MAR,504,Proportion of health care facilities with limited sanitation services,2021,82.4348,Total,,%,,,,Total
+Morocco,MA,MAR,504,Proportion of health care facilities with limited sanitation services,2022,82.4348,Total,,%,,,,Total
+Morocco,MA,MAR,504,Proportion of health care facilities with limited sanitation services,2023,82.4348,Total,,%,,,,Total
+Mozambique,MZ,MOZ,508,Proportion of health care facilities with limited sanitation services,2014,13.73855,Total,,%,,,,Total
+Mozambique,MZ,MOZ,508,Proportion of health care facilities with limited sanitation services,2015,13.73855,Total,,%,,,,Total
+Mozambique,MZ,MOZ,508,Proportion of health care facilities with limited sanitation services,2016,13.73855,Total,,%,,,,Total
+Mozambique,MZ,MOZ,508,Proportion of health care facilities with limited sanitation services,2017,13.73855,Total,,%,,,,Total
+Mozambique,MZ,MOZ,508,Proportion of health care facilities with limited sanitation services,2018,13.73855,Total,,%,,,,Total
+Nepal,NP,NPL,524,Proportion of health care facilities with limited sanitation services,2017,81.83093333333353,Total,,%,,,,Total
+Nepal,NP,NPL,524,Proportion of health care facilities with limited sanitation services,2018,80.71010000000012,Total,,%,,,,Total
+Nepal,NP,NPL,524,Proportion of health care facilities with limited sanitation services,2019,79.58926666666697,Total,,%,,,,Total
+Nepal,NP,NPL,524,Proportion of health care facilities with limited sanitation services,2020,78.46843333333356,Total,,%,,,,Total
+Nepal,NP,NPL,524,Proportion of health care facilities with limited sanitation services,2021,77.34760000000038,Total,,%,,,,Total
+Nepal,NP,NPL,524,Proportion of health care facilities with limited sanitation services,2022,75.91814999999986,Total,,%,,,,Total
+Nepal,NP,NPL,524,Proportion of health care facilities with limited sanitation services,2023,74.23479999999992,Total,,%,,,,Total
+Niger,NE,NER,562,Proportion of health care facilities with limited sanitation services,2017,79.76666666666689,Total,,%,,,,Total
+Niger,NE,NER,562,Proportion of health care facilities with limited sanitation services,2018,78.90000000000009,Total,,%,,,,Total
+Niger,NE,NER,562,Proportion of health care facilities with limited sanitation services,2019,78.03333333333353,Total,,%,,,,Total
+Niger,NE,NER,562,Proportion of health care facilities with limited sanitation services,2020,77.16666666666674,Total,,%,,,,Total
+Niger,NE,NER,562,Proportion of health care facilities with limited sanitation services,2021,76.30000000000018,Total,,%,,,,Total
+Niger,NE,NER,562,Proportion of health care facilities with limited sanitation services,2022,75.43333333333339,Total,,%,,,,Total
+Niger,NE,NER,562,Proportion of health care facilities with limited sanitation services,2023,74.56666666666683,Total,,%,,,,Total
+Nigeria,NG,NGA,566,Proportion of health care facilities with limited sanitation services,2011,39.12822059659175,Total,,%,,,,Total
+Nigeria,NG,NGA,566,Proportion of health care facilities with limited sanitation services,2012,42.92584872159205,Total,,%,,,,Total
+Nigeria,NG,NGA,566,Proportion of health care facilities with limited sanitation services,2013,46.72347684659235,Total,,%,,,,Total
+Nigeria,NG,NGA,566,Proportion of health care facilities with limited sanitation services,2014,50.52110497159174,Total,,%,,,,Total
+Nigeria,NG,NGA,566,Proportion of health care facilities with limited sanitation services,2015,54.31873309659204,Total,,%,,,,Total
+Nigeria,NG,NGA,566,Proportion of health care facilities with limited sanitation services,2016,53.96810667613772,Total,,%,,,,Total
+Nigeria,NG,NGA,566,Proportion of health care facilities with limited sanitation services,2017,53.61748025568249,Total,,%,,,,Total
+Nigeria,NG,NGA,566,Proportion of health care facilities with limited sanitation services,2018,53.26685383522817,Total,,%,,,,Total
+Nigeria,NG,NGA,566,Proportion of health care facilities with limited sanitation services,2019,52.91622741477386,Total,,%,,,,Total
+Nigeria,NG,NGA,566,Proportion of health care facilities with limited sanitation services,2020,52.56560099431863,Total,,%,,,,Total
+Nigeria,NG,NGA,566,Proportion of health care facilities with limited sanitation services,2021,52.21497457386431,Total,,%,,,,Total
+Nigeria,NG,NGA,566,Proportion of health care facilities with limited sanitation services,2022,53.52384739583385,Total,,%,,,,Total
+Nigeria,NG,NGA,566,Proportion of health care facilities with limited sanitation services,2023,57.45880052083317,Total,,%,,,,Total
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,Proportion of health care facilities with limited sanitation services,2000,0,Total,,%,,,,Total
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,Proportion of health care facilities with limited sanitation services,2001,0,Total,,%,,,,Total
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,Proportion of health care facilities with limited sanitation services,2002,0,Total,,%,,,,Total
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,Proportion of health care facilities with limited sanitation services,2003,0,Total,,%,,,,Total
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,Proportion of health care facilities with limited sanitation services,2004,0,Total,,%,,,,Total
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,Proportion of health care facilities with limited sanitation services,2005,0,Total,,%,,,,Total
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,Proportion of health care facilities with limited sanitation services,2006,0,Total,,%,,,,Total
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,Proportion of health care facilities with limited sanitation services,2007,0,Total,,%,,,,Total
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,Proportion of health care facilities with limited sanitation services,2008,0,Total,,%,,,,Total
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,Proportion of health care facilities with limited sanitation services,2009,0,Total,,%,,,,Total
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,Proportion of health care facilities with limited sanitation services,2010,0,Total,,%,,,,Total
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,Proportion of health care facilities with limited sanitation services,2011,0,Total,,%,,,,Total
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,Proportion of health care facilities with limited sanitation services,2012,0,Total,,%,,,,Total
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,Proportion of health care facilities with limited sanitation services,2013,0,Total,,%,,,,Total
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,Proportion of health care facilities with limited sanitation services,2014,0,Total,,%,,,,Total
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,Proportion of health care facilities with limited sanitation services,2015,0,Total,,%,,,,Total
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,Proportion of health care facilities with limited sanitation services,2016,0,Total,,%,,,,Total
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,Proportion of health care facilities with limited sanitation services,2017,0,Total,,%,,,,Total
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,Proportion of health care facilities with limited sanitation services,2018,0,Total,,%,,,,Total
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,Proportion of health care facilities with limited sanitation services,2019,0,Total,,%,,,,Total
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,Proportion of health care facilities with limited sanitation services,2020,0,Total,,%,,,,Total
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,Proportion of health care facilities with limited sanitation services,2021,0,Total,,%,,,,Total
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,Proportion of health care facilities with limited sanitation services,2022,0,Total,,%,,,,Total
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,Proportion of health care facilities with limited sanitation services,2023,0,Total,,%,,,,Total
+Oman,OM,OMN,512,Proportion of health care facilities with limited sanitation services,2000,0,Total,,%,,,,Total
+Oman,OM,OMN,512,Proportion of health care facilities with limited sanitation services,2001,0,Total,,%,,,,Total
+Oman,OM,OMN,512,Proportion of health care facilities with limited sanitation services,2002,0,Total,,%,,,,Total
+Oman,OM,OMN,512,Proportion of health care facilities with limited sanitation services,2003,0,Total,,%,,,,Total
+Oman,OM,OMN,512,Proportion of health care facilities with limited sanitation services,2004,0,Total,,%,,,,Total
+Oman,OM,OMN,512,Proportion of health care facilities with limited sanitation services,2005,0,Total,,%,,,,Total
+Oman,OM,OMN,512,Proportion of health care facilities with limited sanitation services,2006,0,Total,,%,,,,Total
+Oman,OM,OMN,512,Proportion of health care facilities with limited sanitation services,2007,0,Total,,%,,,,Total
+Oman,OM,OMN,512,Proportion of health care facilities with limited sanitation services,2008,0,Total,,%,,,,Total
+Oman,OM,OMN,512,Proportion of health care facilities with limited sanitation services,2009,0,Total,,%,,,,Total
+Oman,OM,OMN,512,Proportion of health care facilities with limited sanitation services,2010,0,Total,,%,,,,Total
+Oman,OM,OMN,512,Proportion of health care facilities with limited sanitation services,2011,0,Total,,%,,,,Total
+Oman,OM,OMN,512,Proportion of health care facilities with limited sanitation services,2012,0,Total,,%,,,,Total
+Oman,OM,OMN,512,Proportion of health care facilities with limited sanitation services,2013,0,Total,,%,,,,Total
+Oman,OM,OMN,512,Proportion of health care facilities with limited sanitation services,2014,0,Total,,%,,,,Total
+Oman,OM,OMN,512,Proportion of health care facilities with limited sanitation services,2015,0,Total,,%,,,,Total
+Oman,OM,OMN,512,Proportion of health care facilities with limited sanitation services,2016,0,Total,,%,,,,Total
+Oman,OM,OMN,512,Proportion of health care facilities with limited sanitation services,2017,5.128200000000007,Total,,%,,,,Total
+Oman,OM,OMN,512,Proportion of health care facilities with limited sanitation services,2018,5.128200000000007,Total,,%,,,,Total
+Oman,OM,OMN,512,Proportion of health care facilities with limited sanitation services,2019,5.128200000000007,Total,,%,,,,Total
+Oman,OM,OMN,512,Proportion of health care facilities with limited sanitation services,2020,5.128200000000007,Total,,%,,,,Total
+Oman,OM,OMN,512,Proportion of health care facilities with limited sanitation services,2021,5.128200000000007,Total,,%,,,,Total
+Oman,OM,OMN,512,Proportion of health care facilities with limited sanitation services,2022,5.128200000000007,Total,,%,,,,Total
+Oman,OM,OMN,512,Proportion of health care facilities with limited sanitation services,2023,5.128200000000007,Total,,%,,,,Total
+Pakistan,PK,PAK,586,Proportion of health care facilities with limited sanitation services,2017,70.199,Total,,%,,,,Total
+Pakistan,PK,PAK,586,Proportion of health care facilities with limited sanitation services,2018,70.199,Total,,%,,,,Total
+Pakistan,PK,PAK,586,Proportion of health care facilities with limited sanitation services,2019,70.199,Total,,%,,,,Total
+Pakistan,PK,PAK,586,Proportion of health care facilities with limited sanitation services,2020,70.199,Total,,%,,,,Total
+Pakistan,PK,PAK,586,Proportion of health care facilities with limited sanitation services,2021,70.199,Total,,%,,,,Total
+Pakistan,PK,PAK,586,Proportion of health care facilities with limited sanitation services,2022,70.199,Total,,%,,,,Total
+Pakistan,PK,PAK,586,Proportion of health care facilities with limited sanitation services,2023,70.199,Total,,%,,,,Total
+Palau,PW,PLW,585,Proportion of health care facilities with limited sanitation services,2017,100,Total,,%,,,,Total
+Palau,PW,PLW,585,Proportion of health care facilities with limited sanitation services,2018,100,Total,,%,,,,Total
+Palau,PW,PLW,585,Proportion of health care facilities with limited sanitation services,2019,100,Total,,%,,,,Total
+Palau,PW,PLW,585,Proportion of health care facilities with limited sanitation services,2020,100,Total,,%,,,,Total
+Palau,PW,PLW,585,Proportion of health care facilities with limited sanitation services,2021,100,Total,,%,,,,Total
+Palau,PW,PLW,585,Proportion of health care facilities with limited sanitation services,2022,100,Total,,%,,,,Total
+Palau,PW,PLW,585,Proportion of health care facilities with limited sanitation services,2023,100,Total,,%,,,,Total
+Paraguay,PY,PRY,600,Proportion of health care facilities with limited sanitation services,2013,62.30775,Total,,%,,,,Total
+Paraguay,PY,PRY,600,Proportion of health care facilities with limited sanitation services,2014,62.30775,Total,,%,,,,Total
+Paraguay,PY,PRY,600,Proportion of health care facilities with limited sanitation services,2015,62.30775,Total,,%,,,,Total
+Paraguay,PY,PRY,600,Proportion of health care facilities with limited sanitation services,2016,62.30775,Total,,%,,,,Total
+Paraguay,PY,PRY,600,Proportion of health care facilities with limited sanitation services,2017,62.30775,Total,,%,,,,Total
+Paraguay,PY,PRY,600,Proportion of health care facilities with limited sanitation services,2018,62.30775,Total,,%,,,,Total
+Paraguay,PY,PRY,600,Proportion of health care facilities with limited sanitation services,2019,62.30775,Total,,%,,,,Total
+Paraguay,PY,PRY,600,Proportion of health care facilities with limited sanitation services,2020,62.30775,Total,,%,,,,Total
+Paraguay,PY,PRY,600,Proportion of health care facilities with limited sanitation services,2021,62.30775,Total,,%,,,,Total
+Peru,PE,PER,604,Proportion of health care facilities with limited sanitation services,2013,82.88507064676618,Total,,%,,,,Total
+Peru,PE,PER,604,Proportion of health care facilities with limited sanitation services,2014,82.88507064676618,Total,,%,,,,Total
+Peru,PE,PER,604,Proportion of health care facilities with limited sanitation services,2015,82.88507064676618,Total,,%,,,,Total
+Peru,PE,PER,604,Proportion of health care facilities with limited sanitation services,2016,82.88507064676618,Total,,%,,,,Total
+Peru,PE,PER,604,Proportion of health care facilities with limited sanitation services,2017,82.88507064676618,Total,,%,,,,Total
+Peru,PE,PER,604,Proportion of health care facilities with limited sanitation services,2018,82.88507064676618,Total,,%,,,,Total
+Peru,PE,PER,604,Proportion of health care facilities with limited sanitation services,2019,82.88507064676618,Total,,%,,,,Total
+Peru,PE,PER,604,Proportion of health care facilities with limited sanitation services,2020,82.88507064676618,Total,,%,,,,Total
+Peru,PE,PER,604,Proportion of health care facilities with limited sanitation services,2021,82.88507064676618,Total,,%,,,,Total
+Qatar,QA,QAT,634,Proportion of health care facilities with limited sanitation services,2000,0,Total,,%,,,,Total
+Qatar,QA,QAT,634,Proportion of health care facilities with limited sanitation services,2001,0,Total,,%,,,,Total
+Qatar,QA,QAT,634,Proportion of health care facilities with limited sanitation services,2002,0,Total,,%,,,,Total
+Qatar,QA,QAT,634,Proportion of health care facilities with limited sanitation services,2003,0,Total,,%,,,,Total
+Qatar,QA,QAT,634,Proportion of health care facilities with limited sanitation services,2004,0,Total,,%,,,,Total
+Qatar,QA,QAT,634,Proportion of health care facilities with limited sanitation services,2005,0,Total,,%,,,,Total
+Qatar,QA,QAT,634,Proportion of health care facilities with limited sanitation services,2006,0,Total,,%,,,,Total
+Qatar,QA,QAT,634,Proportion of health care facilities with limited sanitation services,2007,0,Total,,%,,,,Total
+Qatar,QA,QAT,634,Proportion of health care facilities with limited sanitation services,2008,0,Total,,%,,,,Total
+Qatar,QA,QAT,634,Proportion of health care facilities with limited sanitation services,2009,0,Total,,%,,,,Total
+Qatar,QA,QAT,634,Proportion of health care facilities with limited sanitation services,2010,0,Total,,%,,,,Total
+Qatar,QA,QAT,634,Proportion of health care facilities with limited sanitation services,2011,0,Total,,%,,,,Total
+Qatar,QA,QAT,634,Proportion of health care facilities with limited sanitation services,2012,0,Total,,%,,,,Total
+Qatar,QA,QAT,634,Proportion of health care facilities with limited sanitation services,2013,0,Total,,%,,,,Total
+Qatar,QA,QAT,634,Proportion of health care facilities with limited sanitation services,2014,0,Total,,%,,,,Total
+Qatar,QA,QAT,634,Proportion of health care facilities with limited sanitation services,2015,0,Total,,%,,,,Total
+Qatar,QA,QAT,634,Proportion of health care facilities with limited sanitation services,2016,0,Total,,%,,,,Total
+Qatar,QA,QAT,634,Proportion of health care facilities with limited sanitation services,2017,0,Total,,%,,,,Total
+Qatar,QA,QAT,634,Proportion of health care facilities with limited sanitation services,2018,0,Total,,%,,,,Total
+Qatar,QA,QAT,634,Proportion of health care facilities with limited sanitation services,2019,0,Total,,%,,,,Total
+Qatar,QA,QAT,634,Proportion of health care facilities with limited sanitation services,2020,0,Total,,%,,,,Total
+Qatar,QA,QAT,634,Proportion of health care facilities with limited sanitation services,2021,0,Total,,%,,,,Total
+Qatar,QA,QAT,634,Proportion of health care facilities with limited sanitation services,2022,0,Total,,%,,,,Total
+Qatar,QA,QAT,634,Proportion of health care facilities with limited sanitation services,2023,0,Total,,%,,,,Total
+Rwanda,RW,RWA,646,Proportion of health care facilities with limited sanitation services,2019,40.81460000000001,Total,,%,,,,Total
+Rwanda,RW,RWA,646,Proportion of health care facilities with limited sanitation services,2020,40.81460000000001,Total,,%,,,,Total
+Rwanda,RW,RWA,646,Proportion of health care facilities with limited sanitation services,2021,40.81460000000001,Total,,%,,,,Total
+Rwanda,RW,RWA,646,Proportion of health care facilities with limited sanitation services,2022,40.81460000000001,Total,,%,,,,Total
+Rwanda,RW,RWA,646,Proportion of health care facilities with limited sanitation services,2023,40.81460000000001,Total,,%,,,,Total
+Samoa,WS,WSM,882,Proportion of health care facilities with limited sanitation services,2016,15.38461538461539,Total,,%,,,,Total
+Samoa,WS,WSM,882,Proportion of health care facilities with limited sanitation services,2017,15.38461538461539,Total,,%,,,,Total
+Samoa,WS,WSM,882,Proportion of health care facilities with limited sanitation services,2018,15.38461538461539,Total,,%,,,,Total
+Samoa,WS,WSM,882,Proportion of health care facilities with limited sanitation services,2019,15.38461538461539,Total,,%,,,,Total
+Samoa,WS,WSM,882,Proportion of health care facilities with limited sanitation services,2020,15.38461538461539,Total,,%,,,,Total
+Samoa,WS,WSM,882,Proportion of health care facilities with limited sanitation services,2021,15.38461538461539,Total,,%,,,,Total
+Samoa,WS,WSM,882,Proportion of health care facilities with limited sanitation services,2022,15.38461538461539,Total,,%,,,,Total
+Samoa,WS,WSM,882,Proportion of health care facilities with limited sanitation services,2023,15.38461538461539,Total,,%,,,,Total
+Saudi Arabia,SA,SAU,682,Proportion of health care facilities with limited sanitation services,2000,0,Total,,%,,,,Total
+Saudi Arabia,SA,SAU,682,Proportion of health care facilities with limited sanitation services,2001,0,Total,,%,,,,Total
+Saudi Arabia,SA,SAU,682,Proportion of health care facilities with limited sanitation services,2002,0,Total,,%,,,,Total
+Saudi Arabia,SA,SAU,682,Proportion of health care facilities with limited sanitation services,2003,0,Total,,%,,,,Total
+Saudi Arabia,SA,SAU,682,Proportion of health care facilities with limited sanitation services,2004,0,Total,,%,,,,Total
+Saudi Arabia,SA,SAU,682,Proportion of health care facilities with limited sanitation services,2005,0,Total,,%,,,,Total
+Saudi Arabia,SA,SAU,682,Proportion of health care facilities with limited sanitation services,2006,0,Total,,%,,,,Total
+Saudi Arabia,SA,SAU,682,Proportion of health care facilities with limited sanitation services,2007,0,Total,,%,,,,Total
+Saudi Arabia,SA,SAU,682,Proportion of health care facilities with limited sanitation services,2008,0,Total,,%,,,,Total
+Saudi Arabia,SA,SAU,682,Proportion of health care facilities with limited sanitation services,2009,0,Total,,%,,,,Total
+Saudi Arabia,SA,SAU,682,Proportion of health care facilities with limited sanitation services,2010,0,Total,,%,,,,Total
+Saudi Arabia,SA,SAU,682,Proportion of health care facilities with limited sanitation services,2011,0,Total,,%,,,,Total
+Saudi Arabia,SA,SAU,682,Proportion of health care facilities with limited sanitation services,2012,0,Total,,%,,,,Total
+Saudi Arabia,SA,SAU,682,Proportion of health care facilities with limited sanitation services,2013,0,Total,,%,,,,Total
+Saudi Arabia,SA,SAU,682,Proportion of health care facilities with limited sanitation services,2014,0,Total,,%,,,,Total
+Saudi Arabia,SA,SAU,682,Proportion of health care facilities with limited sanitation services,2015,0,Total,,%,,,,Total
+Saudi Arabia,SA,SAU,682,Proportion of health care facilities with limited sanitation services,2016,0,Total,,%,,,,Total
+Saudi Arabia,SA,SAU,682,Proportion of health care facilities with limited sanitation services,2017,0,Total,,%,,,,Total
+Saudi Arabia,SA,SAU,682,Proportion of health care facilities with limited sanitation services,2018,0,Total,,%,,,,Total
+Saudi Arabia,SA,SAU,682,Proportion of health care facilities with limited sanitation services,2019,0,Total,,%,,,,Total
+Saudi Arabia,SA,SAU,682,Proportion of health care facilities with limited sanitation services,2020,0,Total,,%,,,,Total
+Saudi Arabia,SA,SAU,682,Proportion of health care facilities with limited sanitation services,2021,0,Total,,%,,,,Total
+Saudi Arabia,SA,SAU,682,Proportion of health care facilities with limited sanitation services,2022,0,Total,,%,,,,Total
+Saudi Arabia,SA,SAU,682,Proportion of health care facilities with limited sanitation services,2023,0,Total,,%,,,,Total
+Serbia,RS,SRB,688,Proportion of health care facilities with limited sanitation services,2015,92.64999999999999,Total,,%,,,,Total
+Serbia,RS,SRB,688,Proportion of health care facilities with limited sanitation services,2016,92.64999999999999,Total,,%,,,,Total
+Serbia,RS,SRB,688,Proportion of health care facilities with limited sanitation services,2017,92.64999999999999,Total,,%,,,,Total
+Serbia,RS,SRB,688,Proportion of health care facilities with limited sanitation services,2018,92.64999999999999,Total,,%,,,,Total
+Serbia,RS,SRB,688,Proportion of health care facilities with limited sanitation services,2019,92.64999999999999,Total,,%,,,,Total
+Serbia,RS,SRB,688,Proportion of health care facilities with limited sanitation services,2020,92.64999999999999,Total,,%,,,,Total
+Serbia,RS,SRB,688,Proportion of health care facilities with limited sanitation services,2021,92.64999999999999,Total,,%,,,,Total
+Serbia,RS,SRB,688,Proportion of health care facilities with limited sanitation services,2022,92.64999999999999,Total,,%,,,,Total
+Serbia,RS,SRB,688,Proportion of health care facilities with limited sanitation services,2023,92.64999999999999,Total,,%,,,,Total
+Sierra Leone,SL,SLE,694,Proportion of health care facilities with limited sanitation services,2012,84.94174305177273,Total,,%,,,,Total
+Sierra Leone,SL,SLE,694,Proportion of health care facilities with limited sanitation services,2013,85.46935040872097,Total,,%,,,,Total
+Sierra Leone,SL,SLE,694,Proportion of health care facilities with limited sanitation services,2014,85.99695776566921,Total,,%,,,,Total
+Sierra Leone,SL,SLE,694,Proportion of health care facilities with limited sanitation services,2015,86.52456512261745,Total,,%,,,,Total
+Sierra Leone,SL,SLE,694,Proportion of health care facilities with limited sanitation services,2016,87.05217247956568,Total,,%,,,,Total
+Sierra Leone,SL,SLE,694,Proportion of health care facilities with limited sanitation services,2017,81.43947983651299,Total,,%,,,,Total
+Sierra Leone,SL,SLE,694,Proportion of health care facilities with limited sanitation services,2018,75.8267871934621,Total,,%,,,,Total
+Sierra Leone,SL,SLE,694,Proportion of health care facilities with limited sanitation services,2019,70.21409455040941,Total,,%,,,,Total
+Sierra Leone,SL,SLE,694,Proportion of health care facilities with limited sanitation services,2020,64.60140190735854,Total,,%,,,,Total
+Sierra Leone,SL,SLE,694,Proportion of health care facilities with limited sanitation services,2021,58.98870926430584,Total,,%,,,,Total
+Sierra Leone,SL,SLE,694,Proportion of health care facilities with limited sanitation services,2022,53.37601662125496,Total,,%,,,,Total
+Sierra Leone,SL,SLE,694,Proportion of health care facilities with limited sanitation services,2023,47.76332397820227,Total,,%,,,,Total
+Singapore,SG,SGP,702,Proportion of health care facilities with limited sanitation services,2000,0,Total,,%,,,,Total
+Singapore,SG,SGP,702,Proportion of health care facilities with limited sanitation services,2001,0,Total,,%,,,,Total
+Singapore,SG,SGP,702,Proportion of health care facilities with limited sanitation services,2002,0,Total,,%,,,,Total
+Singapore,SG,SGP,702,Proportion of health care facilities with limited sanitation services,2003,0,Total,,%,,,,Total
+Singapore,SG,SGP,702,Proportion of health care facilities with limited sanitation services,2004,0,Total,,%,,,,Total
+Singapore,SG,SGP,702,Proportion of health care facilities with limited sanitation services,2005,0,Total,,%,,,,Total
+Singapore,SG,SGP,702,Proportion of health care facilities with limited sanitation services,2006,0,Total,,%,,,,Total
+Singapore,SG,SGP,702,Proportion of health care facilities with limited sanitation services,2007,0,Total,,%,,,,Total
+Singapore,SG,SGP,702,Proportion of health care facilities with limited sanitation services,2008,0,Total,,%,,,,Total
+Singapore,SG,SGP,702,Proportion of health care facilities with limited sanitation services,2009,0,Total,,%,,,,Total
+Singapore,SG,SGP,702,Proportion of health care facilities with limited sanitation services,2010,0,Total,,%,,,,Total
+Singapore,SG,SGP,702,Proportion of health care facilities with limited sanitation services,2011,0,Total,,%,,,,Total
+Singapore,SG,SGP,702,Proportion of health care facilities with limited sanitation services,2012,0,Total,,%,,,,Total
+Singapore,SG,SGP,702,Proportion of health care facilities with limited sanitation services,2013,0,Total,,%,,,,Total
+Singapore,SG,SGP,702,Proportion of health care facilities with limited sanitation services,2014,0,Total,,%,,,,Total
+Singapore,SG,SGP,702,Proportion of health care facilities with limited sanitation services,2015,0,Total,,%,,,,Total
+Singapore,SG,SGP,702,Proportion of health care facilities with limited sanitation services,2016,0,Total,,%,,,,Total
+Singapore,SG,SGP,702,Proportion of health care facilities with limited sanitation services,2017,0,Total,,%,,,,Total
+Singapore,SG,SGP,702,Proportion of health care facilities with limited sanitation services,2018,0,Total,,%,,,,Total
+Singapore,SG,SGP,702,Proportion of health care facilities with limited sanitation services,2019,0,Total,,%,,,,Total
+Singapore,SG,SGP,702,Proportion of health care facilities with limited sanitation services,2020,0,Total,,%,,,,Total
+Singapore,SG,SGP,702,Proportion of health care facilities with limited sanitation services,2021,0,Total,,%,,,,Total
+Singapore,SG,SGP,702,Proportion of health care facilities with limited sanitation services,2022,0,Total,,%,,,,Total
+Singapore,SG,SGP,702,Proportion of health care facilities with limited sanitation services,2023,0,Total,,%,,,,Total
+Solomon Islands,SB,SLB,90,Proportion of health care facilities with limited sanitation services,2016,56.4061,Total,,%,,,,Total
+Solomon Islands,SB,SLB,90,Proportion of health care facilities with limited sanitation services,2017,56.4061,Total,,%,,,,Total
+Solomon Islands,SB,SLB,90,Proportion of health care facilities with limited sanitation services,2018,56.4061,Total,,%,,,,Total
+Solomon Islands,SB,SLB,90,Proportion of health care facilities with limited sanitation services,2019,56.4061,Total,,%,,,,Total
+Solomon Islands,SB,SLB,90,Proportion of health care facilities with limited sanitation services,2020,56.4061,Total,,%,,,,Total
+Solomon Islands,SB,SLB,90,Proportion of health care facilities with limited sanitation services,2021,56.4061,Total,,%,,,,Total
+Solomon Islands,SB,SLB,90,Proportion of health care facilities with limited sanitation services,2022,56.4061,Total,,%,,,,Total
+Solomon Islands,SB,SLB,90,Proportion of health care facilities with limited sanitation services,2023,56.4061,Total,,%,,,,Total
+Somalia,SO,SOM,706,Proportion of health care facilities with limited sanitation services,2019,70.50105714285769,Total,,%,,,,Total
+Somalia,SO,SOM,706,Proportion of health care facilities with limited sanitation services,2020,72.84024285714372,Total,,%,,,,Total
+Somalia,SO,SOM,706,Proportion of health care facilities with limited sanitation services,2021,75.17942857142884,Total,,%,,,,Total
+Somalia,SO,SOM,706,Proportion of health care facilities with limited sanitation services,2022,75.82939999999999,Total,,%,,,,Total
+Somalia,SO,SOM,706,Proportion of health care facilities with limited sanitation services,2023,75.82939999999999,Total,,%,,,,Total
+Sri Lanka,LK,LKA,144,Proportion of health care facilities with limited sanitation services,2018,60.42196046511627,Total,,%,,,,Total
+Sri Lanka,LK,LKA,144,Proportion of health care facilities with limited sanitation services,2019,60.42196046511627,Total,,%,,,,Total
+Sri Lanka,LK,LKA,144,Proportion of health care facilities with limited sanitation services,2020,60.42196046511627,Total,,%,,,,Total
+Sri Lanka,LK,LKA,144,Proportion of health care facilities with limited sanitation services,2021,60.42196046511627,Total,,%,,,,Total
+"Palestinian Territory, Occupied",PS,PSE,275,Proportion of health care facilities with limited sanitation services,2017,93.9547684186126,Total,,%,,,,Total
+"Palestinian Territory, Occupied",PS,PSE,275,Proportion of health care facilities with limited sanitation services,2018,93.8133269093406,Total,,%,,,,Total
+"Palestinian Territory, Occupied",PS,PSE,275,Proportion of health care facilities with limited sanitation services,2019,93.67188540006866,Total,,%,,,,Total
+"Palestinian Territory, Occupied",PS,PSE,275,Proportion of health care facilities with limited sanitation services,2020,93.53044389079666,Total,,%,,,,Total
+"Palestinian Territory, Occupied",PS,PSE,275,Proportion of health care facilities with limited sanitation services,2021,93.38900238152466,Total,,%,,,,Total
+"Palestinian Territory, Occupied",PS,PSE,275,Proportion of health care facilities with limited sanitation services,2022,93.24756087225273,Total,,%,,,,Total
+"Palestinian Territory, Occupied",PS,PSE,275,Proportion of health care facilities with limited sanitation services,2023,93.10611936298072,Total,,%,,,,Total
+Sudan,SD,SDN,736,Proportion of health care facilities with limited sanitation services,2017,74.07530000000001,Total,,%,,,,Total
+Sudan,SD,SDN,736,Proportion of health care facilities with limited sanitation services,2018,74.07530000000001,Total,,%,,,,Total
+Sudan,SD,SDN,736,Proportion of health care facilities with limited sanitation services,2019,74.07530000000001,Total,,%,,,,Total
+Sudan,SD,SDN,736,Proportion of health care facilities with limited sanitation services,2020,74.07530000000001,Total,,%,,,,Total
+Sudan,SD,SDN,736,Proportion of health care facilities with limited sanitation services,2021,74.07530000000001,Total,,%,,,,Total
+Sudan,SD,SDN,736,Proportion of health care facilities with limited sanitation services,2022,74.07530000000001,Total,,%,,,,Total
+Sudan,SD,SDN,736,Proportion of health care facilities with limited sanitation services,2023,74.07530000000001,Total,,%,,,,Total
+Syrian Arab Republic,SY,SYR,760,Proportion of health care facilities with limited sanitation services,2018,82.92689999999999,Total,,%,,,,Total
+Syrian Arab Republic,SY,SYR,760,Proportion of health care facilities with limited sanitation services,2019,82.92689999999999,Total,,%,,,,Total
+Syrian Arab Republic,SY,SYR,760,Proportion of health care facilities with limited sanitation services,2020,82.92689999999999,Total,,%,,,,Total
+Syrian Arab Republic,SY,SYR,760,Proportion of health care facilities with limited sanitation services,2021,82.92689999999999,Total,,%,,,,Total
+Syrian Arab Republic,SY,SYR,760,Proportion of health care facilities with limited sanitation services,2022,82.92689999999999,Total,,%,,,,Total
+Syrian Arab Republic,SY,SYR,760,Proportion of health care facilities with limited sanitation services,2023,82.92689999999999,Total,,%,,,,Total
+Tajikistan,TJ,TJK,762,Proportion of health care facilities with limited sanitation services,2017,57.28791208791257,Total,,%,,,,Total
+Tajikistan,TJ,TJK,762,Proportion of health care facilities with limited sanitation services,2018,53.3230769230769,Total,,%,,,,Total
+Tajikistan,TJ,TJK,762,Proportion of health care facilities with limited sanitation services,2019,49.35824175824213,Total,,%,,,,Total
+Tajikistan,TJ,TJK,762,Proportion of health care facilities with limited sanitation services,2020,45.39340659340645,Total,,%,,,,Total
+Tajikistan,TJ,TJK,762,Proportion of health care facilities with limited sanitation services,2021,41.42857142857169,Total,,%,,,,Total
+Tajikistan,TJ,TJK,762,Proportion of health care facilities with limited sanitation services,2022,37.46373626373601,Total,,%,,,,Total
+Tajikistan,TJ,TJK,762,Proportion of health care facilities with limited sanitation services,2023,33.49890109890124,Total,,%,,,,Total
+Tokelau,TK,TKL,772,Proportion of health care facilities with limited sanitation services,2000,0,Total,,%,,,,Total
+Tokelau,TK,TKL,772,Proportion of health care facilities with limited sanitation services,2001,0,Total,,%,,,,Total
+Tokelau,TK,TKL,772,Proportion of health care facilities with limited sanitation services,2002,0,Total,,%,,,,Total
+Tokelau,TK,TKL,772,Proportion of health care facilities with limited sanitation services,2003,0,Total,,%,,,,Total
+Tokelau,TK,TKL,772,Proportion of health care facilities with limited sanitation services,2004,0,Total,,%,,,,Total
+Tokelau,TK,TKL,772,Proportion of health care facilities with limited sanitation services,2005,0,Total,,%,,,,Total
+Tokelau,TK,TKL,772,Proportion of health care facilities with limited sanitation services,2006,0,Total,,%,,,,Total
+Tokelau,TK,TKL,772,Proportion of health care facilities with limited sanitation services,2007,0,Total,,%,,,,Total
+Tokelau,TK,TKL,772,Proportion of health care facilities with limited sanitation services,2008,0,Total,,%,,,,Total
+Tokelau,TK,TKL,772,Proportion of health care facilities with limited sanitation services,2009,0,Total,,%,,,,Total
+Tokelau,TK,TKL,772,Proportion of health care facilities with limited sanitation services,2010,0,Total,,%,,,,Total
+Tokelau,TK,TKL,772,Proportion of health care facilities with limited sanitation services,2011,0,Total,,%,,,,Total
+Tokelau,TK,TKL,772,Proportion of health care facilities with limited sanitation services,2012,0,Total,,%,,,,Total
+Tokelau,TK,TKL,772,Proportion of health care facilities with limited sanitation services,2013,0,Total,,%,,,,Total
+Tokelau,TK,TKL,772,Proportion of health care facilities with limited sanitation services,2014,0,Total,,%,,,,Total
+Tokelau,TK,TKL,772,Proportion of health care facilities with limited sanitation services,2015,0,Total,,%,,,,Total
+Tokelau,TK,TKL,772,Proportion of health care facilities with limited sanitation services,2016,0,Total,,%,,,,Total
+Tokelau,TK,TKL,772,Proportion of health care facilities with limited sanitation services,2017,0,Total,,%,,,,Total
+Tokelau,TK,TKL,772,Proportion of health care facilities with limited sanitation services,2018,0,Total,,%,,,,Total
+Tokelau,TK,TKL,772,Proportion of health care facilities with limited sanitation services,2019,0,Total,,%,,,,Total
+Tokelau,TK,TKL,772,Proportion of health care facilities with limited sanitation services,2020,0,Total,,%,,,,Total
+Tokelau,TK,TKL,772,Proportion of health care facilities with limited sanitation services,2021,0,Total,,%,,,,Total
+Tokelau,TK,TKL,772,Proportion of health care facilities with limited sanitation services,2022,0,Total,,%,,,,Total
+Tokelau,TK,TKL,772,Proportion of health care facilities with limited sanitation services,2023,0,Total,,%,,,,Total
+Uganda,UG,UGA,800,Proportion of health care facilities with limited sanitation services,2009,68.17557333333352,Total,,%,,,,Total
+Uganda,UG,UGA,800,Proportion of health care facilities with limited sanitation services,2010,67.50410322222237,Total,,%,,,,Total
+Uganda,UG,UGA,800,Proportion of health care facilities with limited sanitation services,2011,66.83263311111122,Total,,%,,,,Total
+Uganda,UG,UGA,800,Proportion of health care facilities with limited sanitation services,2012,66.16116300000007,Total,,%,,,,Total
+Uganda,UG,UGA,800,Proportion of health care facilities with limited sanitation services,2013,65.48969288888892,Total,,%,,,,Total
+Uganda,UG,UGA,800,Proportion of health care facilities with limited sanitation services,2014,64.81822277777778,Total,,%,,,,Total
+Uganda,UG,UGA,800,Proportion of health care facilities with limited sanitation services,2015,64.14675266666686,Total,,%,,,,Total
+Uganda,UG,UGA,800,Proportion of health care facilities with limited sanitation services,2016,63.47528255555571,Total,,%,,,,Total
+Uganda,UG,UGA,800,Proportion of health care facilities with limited sanitation services,2017,65.72451244444456,Total,,%,,,,Total
+Uganda,UG,UGA,800,Proportion of health care facilities with limited sanitation services,2018,65.05304233333341,Total,,%,,,,Total
+Uganda,UG,UGA,800,Proportion of health care facilities with limited sanitation services,2019,64.38157222222226,Total,,%,,,,Total
+Uganda,UG,UGA,800,Proportion of health care facilities with limited sanitation services,2020,63.71010211111111,Total,,%,,,,Total
+Uganda,UG,UGA,800,Proportion of health care facilities with limited sanitation services,2021,63.03863200000019,Total,,%,,,,Total
+Uganda,UG,UGA,800,Proportion of health care facilities with limited sanitation services,2022,62.36716188888904,Total,,%,,,,Total
+Uganda,UG,UGA,800,Proportion of health care facilities with limited sanitation services,2023,62.36716188888904,Total,,%,,,,Total
+"Tanzania, United Republic of",TZ,TZA,834,Proportion of health care facilities with limited sanitation services,2008,28.01069460227336,Total,,%,,,,Total
+"Tanzania, United Republic of",TZ,TZA,834,Proportion of health care facilities with limited sanitation services,2009,28.01069460227336,Total,,%,,,,Total
+"Tanzania, United Republic of",TZ,TZA,834,Proportion of health care facilities with limited sanitation services,2010,28.01069460227336,Total,,%,,,,Total
+"Tanzania, United Republic of",TZ,TZA,834,Proportion of health care facilities with limited sanitation services,2011,34.95499375000145,Total,,%,,,,Total
+"Tanzania, United Republic of",TZ,TZA,834,Proportion of health care facilities with limited sanitation services,2012,36.41299289772773,Total,,%,,,,Total
+"Tanzania, United Republic of",TZ,TZA,834,Proportion of health care facilities with limited sanitation services,2013,43.3572920454558,Total,,%,,,,Total
+"Tanzania, United Republic of",TZ,TZA,834,Proportion of health care facilities with limited sanitation services,2014,50.30159119318208,Total,,%,,,,Total
+"Tanzania, United Republic of",TZ,TZA,834,Proportion of health care facilities with limited sanitation services,2015,57.24589034091017,Total,,%,,,,Total
+"Tanzania, United Republic of",TZ,TZA,834,Proportion of health care facilities with limited sanitation services,2016,64.19018948863643,Total,,%,,,,Total
+"Tanzania, United Republic of",TZ,TZA,834,Proportion of health care facilities with limited sanitation services,2017,71.13448863636452,Total,,%,,,,Total
+"Tanzania, United Republic of",TZ,TZA,834,Proportion of health care facilities with limited sanitation services,2018,78.07878778409079,Total,,%,,,,Total
+"Tanzania, United Republic of",TZ,TZA,834,Proportion of health care facilities with limited sanitation services,2019,84.87313693181888,Total,,%,,,,Total
+"Tanzania, United Republic of",TZ,TZA,834,Proportion of health care facilities with limited sanitation services,2020,91.81743607954697,Total,,%,,,,Total
+"Tanzania, United Republic of",TZ,TZA,834,Proportion of health care facilities with limited sanitation services,2021,94.36375,Total,,%,,,,Total
+"Tanzania, United Republic of",TZ,TZA,834,Proportion of health care facilities with limited sanitation services,2022,94.36375,Total,,%,,,,Total
+Vanuatu,VU,VUT,548,Proportion of health care facilities with limited sanitation services,2016,67.60697499999999,Total,,%,,,,Total
+Vanuatu,VU,VUT,548,Proportion of health care facilities with limited sanitation services,2017,67.60697499999999,Total,,%,,,,Total
+Vanuatu,VU,VUT,548,Proportion of health care facilities with limited sanitation services,2018,67.60697499999999,Total,,%,,,,Total
+Vanuatu,VU,VUT,548,Proportion of health care facilities with limited sanitation services,2019,67.60697499999999,Total,,%,,,,Total
+Vanuatu,VU,VUT,548,Proportion of health care facilities with limited sanitation services,2020,67.60697499999999,Total,,%,,,,Total
+Vanuatu,VU,VUT,548,Proportion of health care facilities with limited sanitation services,2021,67.60697499999999,Total,,%,,,,Total
+Vanuatu,VU,VUT,548,Proportion of health care facilities with limited sanitation services,2022,67.60697499999999,Total,,%,,,,Total
+Vanuatu,VU,VUT,548,Proportion of health care facilities with limited sanitation services,2023,67.60697499999999,Total,,%,,,,Total
+Zimbabwe,ZW,ZWE,716,Proportion of health care facilities with limited sanitation services,2014,82.30000000000001,Total,,%,,,,Total
+Zimbabwe,ZW,ZWE,716,Proportion of health care facilities with limited sanitation services,2015,82.30000000000001,Total,,%,,,,Total
+Zimbabwe,ZW,ZWE,716,Proportion of health care facilities with limited sanitation services,2016,82.30000000000001,Total,,%,,,,Total
+Zimbabwe,ZW,ZWE,716,Proportion of health care facilities with limited sanitation services,2017,82.30000000000001,Total,,%,,,,Total
+Zimbabwe,ZW,ZWE,716,Proportion of health care facilities with limited sanitation services,2018,82.30000000000001,Total,,%,,,,Total
+Zimbabwe,ZW,ZWE,716,Proportion of health care facilities with limited sanitation services,2019,82.30000000000001,Total,,%,,,,Total
+Zimbabwe,ZW,ZWE,716,Proportion of health care facilities with limited sanitation services,2020,82.30000000000001,Total,,%,,,,Total
+Zimbabwe,ZW,ZWE,716,Proportion of health care facilities with limited sanitation services,2021,82.30000000000001,Total,,%,,,,Total
+Zimbabwe,ZW,ZWE,716,Proportion of health care facilities with limited sanitation services,2022,82.30000000000001,Total,,%,,,,Total

@@ -1,0 +1,176 @@
+---
+title: "UNICEF: Height-for-age <-2 SD (stunting), Modeled Estimates"
+author: "Rushikesh Bodkhe"
+format:
+  html:
+    embed-resources: true
+    code-fold: true
+    theme: cosmo
+    toc: true
+    css: styles.css
+editor: visual
+---
+
+## BAA1030 Data Analytics & Story Telling
+
+Student Name: Rushikesh Bodkhe   
+Student Number: 47897   
+Program: MSc Business Management
+
+## Executive Summary
+
+This report analyzes global patterns in childhood stunting using UNICEF’s “Height-for-age <-2 SD” modeled estimates. Stunting, a key indicator of chronic malnutrition, reflects impaired growth and development in children due to poor nutrition, repeated infections, and inadequate psychosocial stimulation. By leveraging data analytics and visualization tools, this report identifies countries with the highest stunting prevalence and explores historical trends to inform targeted health and nutrition interventions.
+
+## Introduction
+
+Stunting—defined as children having a height-for-age more than two standard deviations below the WHO Child Growth Standards median—is one of the most pressing indicators of long-term undernutrition. It reflects not just a failure in physical growth, but also in cognitive and socio-emotional development, often with lifelong consequences.
+
+Using UNICEF data on modeled estimates, this report investigates where stunting is most prevalent and how its rates have evolved over time. Through a combination of geographic mapping, trend analysis, and country-level comparisons, we aim to deepen understanding of stunting’s global burden and provide insight for policy responses and development planning.
+
+## Data Preparation
+
+```{python}
+import polars as pl
+
+indicator = pl.read_csv("/Users/abhi/Desktop/UNICEF_Assignment/unicef_indicator_2.csv")
+meta = pl.read_csv("/Users/abhi/Desktop/UNICEF_Assignment/unicef_metadata.csv")
+
+
+df = indicator.filter(pl.col("indicator") == "Height-for-age <-2 SD (stunting), Modeled Estimates")
+df = df.join(meta, on="country", how="left")
+```
+
+## Visualization 1: Globe - Top 25 Countries
+
+```{python}
+import plotly.graph_objects as go
+import pandas as pd
+
+# Convert to pandas
+data = df.to_pandas()
+
+# Step 1: Top 25 countries by highest obs_value
+top25_data = (
+    data.sort_values('obs_value', ascending=False)
+    .drop_duplicates('country')  # Unique countries
+    .head(25)
+)
+
+# Step 2: Plot flat 2D world map
+fig = go.Figure()
+
+fig.add_trace(
+    go.Choropleth(
+        locations=top25_data['country'],
+        locationmode='country names',
+        z=top25_data['obs_value'],
+        colorscale='YlGnBu',
+        colorbar_title='Height-for-age <-2 SD (stunting), Modeled Estimates',
+        marker_line_color='lightgrey',
+        marker_line_width=0.5,
+    )
+)
+
+fig.update_layout(
+    title_text='Top 25 Countries Height-for-age <-2 SD (stunting), Modeled Estimates',
+    geo=dict(
+        projection_type='natural earth', 
+        showland=True,
+        landcolor="whitesmoke",
+        showocean=True,
+        oceancolor="lightblue",
+        showlakes=True,
+        lakecolor="lightblue",
+        showframe=False,
+        showcountries=True,
+        countrycolor="lightgrey",
+        resolution=50
+    ),
+    margin={"r":0,"t":50,"l":0,"b":0}
+)
+
+fig.show()
+
+```
+
+**This choropleth map presents the 25 countries with the highest levels of childhood stunting (“Height-for-age <-2 SD”). Countries shaded in darker colors exhibit more severe rates of stunting, highlighting regions most affected by chronic undernutrition.**
+
+## Visualization 2: Horizontal Bar Chart
+
+```{python}
+from plotnine import *
+
+df_pd = df.to_pandas()
+agg_df = df_pd.groupby("country", as_index=False).agg({"obs_value": "sum"})
+top10_df = agg_df.sort_values("obs_value", ascending=False).head(10)
+
+bar_plot = (
+    ggplot(top10_df)
+    + aes(x='reorder(country, obs_value)', y='obs_value')
+    + geom_bar(stat='identity', width=0.7, fill='red')  # 🔴 Updated color
+    + coord_flip()
+    + ggtitle("Top 10 Countries by Height-for-age <-2 SD")
+    + labs(x='Country', y='Height-for-age <-2 SD')
+    + theme_minimal()
+    + theme(
+        axis_title=element_text(size=10, weight='bold'),
+        axis_text=element_text(size=11),
+        plot_title=element_text(size=12, weight='bold', ha='center')
+    )
+)
+
+bar_plot
+
+bar_plot
+```
+
+**This bar chart displays the top 10 countries with the highest total stunting burden. It helps visualize the concentration of this issue and emphasizes where urgent action is needed to improve child nutrition and health outcomes.**
+
+## Visualization 3: Yearly Trend Line
+
+```{python}
+plot = (
+    ggplot(df_pd)
+    + aes(x="time_period", y="obs_value")
+    + geom_point(color="seagreen", size=3, alpha=0.7)
+    + geom_smooth(method="lm", color='darkblue', fill='blue', alpha=0.3)
+    + ggtitle("Height-for-age <-2 SD")
+    + labs(x="Year", y="Height")
+    + theme_minimal()
+    + theme(
+        axis_title=element_text(size=13, weight='bold'),
+        plot_title=element_text(size=16, weight='bold', ha='center'),
+        axis_text=element_text(size=11)
+    )
+)
+plot
+```
+
+**This trend line illustrates the overall pattern of stunting prevalence over time. By plotting annual data points and a smoothed regression line, it offers insights into whether global stunting levels are improving, worsening, or stagnating.**
+
+## Visualization 4: Time Series - Top 10 Countries
+
+```{python}
+data = df.to_pandas()
+top_countries = data.groupby('country')['obs_value'].mean().sort_values(ascending=False).head(10).index
+filtered_data = data[data['country'].isin(top_countries)]
+
+plot = (
+    ggplot(filtered_data)
+    + aes(x='time_period', y='obs_value', group='country', color='country')
+    + geom_line()
+    + ggtitle("Time Series of Top 10 Countries by Height-for-age <-2 SD")
+    + labs(x="Year", y="Average Height")
+)
+plot
+```
+
+**This time series chart tracks the evolution of stunting in the 10 most affected countries. Comparing their trajectories reveals which nations have made progress and which continue to struggle with high levels of childhood malnutrition.**
+
+
+## Conclusion
+
+The analysis reveals that childhood stunting remains a significant global health concern, particularly in a subset of countries where the rates are alarmingly high. While some nations have shown signs of progress, the overall pace of reduction is uneven. High levels of stunting often correlate with poverty, food insecurity, limited access to health services, and broader systemic inequalities.
+
+To accelerate progress, countries must invest in comprehensive nutrition strategies, strengthen maternal and child health systems, and ensure access to clean water, sanitation, and early childhood care. Addressing stunting is not just a health priority—it is critical for breaking cycles of poverty and fostering sustainable human development
+
